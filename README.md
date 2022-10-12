@@ -4,7 +4,7 @@
 
 👩‍💻 Formada em Direito e estudando programação
 
-💻 Atualmente imersa nos estudos de HTML e CSS5
+💻 Atualmente imersa nos estudos de Front-end no HTML, CSS5 e JavaScript
 
 <div align="center">
   <a href="https://github.com/leticiamlbarros">
