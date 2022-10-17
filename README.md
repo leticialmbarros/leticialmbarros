@@ -1,4 +1,4 @@
-## Eai, Dev! Eu sou a Leticia, uma mera aspirante nos estudos da programação, sou iniciante então provavelmente voccê vai ver muita bobagem aqui hehe!
+## Eai, Dev! Eu sou a Leticia, uma mera aspirante nos estudos da programação, sou iniciante então provavelmente você vai ver muita bobagem aqui hehe!
 
 📍Sou de São Luis - MA e tenho 27 anos
 
