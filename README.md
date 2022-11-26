@@ -4,7 +4,7 @@
 
 👩‍💻 Estudando HTML, CSS, JavaScript, React.js
 
-💻 Atualmente imersa nos estudos de Front-end no HTML, CSS e JavaScript
+💻 Atualmente disponivel para estagios na area de desenvolvimento frontend
 
 <div align="center">
   <a href="https://github.com/leticiamlbarros">
