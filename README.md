@@ -2,7 +2,7 @@
 
 📍Sou de São Luis - MA e tenho 27 anos
 
-👩‍💻 Formada em Direito e estudando programação
+👩‍💻 Estudando HTML, CSS, JavaScript, React.js
 
 💻 Atualmente imersa nos estudos de Front-end no HTML, CSS e JavaScript
 
