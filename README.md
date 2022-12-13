@@ -47,6 +47,5 @@
 <a href="https://instagram.com/eitaletis" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:armixletix@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/leticiamlima/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<img align="right" alt="lets-gi" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/b9/1b/8e/b91b8e55cb7553300628ab7eef491e71.gif">
 </div>
 
