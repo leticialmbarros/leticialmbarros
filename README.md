@@ -35,7 +35,7 @@
     <img src="https://skillicons.dev/icons?i=git,github,html,css,js,react,nodejs,linux,kubernetes,docker,aws" />
   </a>
 </p>
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br>
 <div align="center">
   <a href="https://github.com/leticiamlbarros">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leticialmbarros&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
