@@ -35,7 +35,7 @@
 </p>
 <br><br><br><br><br>
 <div align="center">
-  <img align="left" height="380px" width="400px" alt="quote"  src = "https://i.pinimg.com/originals/e3/f8/d1/e3f8d1ec363edf1f9e4372198aeeaba2.gif">
+  <img align="left" height="360px" width="330px" alt="quote"  src = "https://i.pinimg.com/originals/e3/f8/d1/e3f8d1ec363edf1f9e4372198aeeaba2.gif">
   <a href="https://github.com/leticiamlbarros">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leticialmbarros&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticialmbarros&layout=compact&langs_count=7&theme=dark"/>
