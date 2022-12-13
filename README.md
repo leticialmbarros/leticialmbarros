@@ -26,16 +26,13 @@
 <!--FIM descrição-->
 
 <!--INICIO Tecnologias-->
-<img align="left" height="320px" width="340px" alt="quote"  src = "https://i.pinimg.com/originals/e3/f8/d1/e3f8d1ec363edf1f9e4372198aeeaba2.gif">
 <br>
-<br><br><br><br><br><br><br><br>
-<h2 align="right">🛠️&ensp; <i>T E C N O L O G I A S</i> &ensp;🛠️</h2>
+<h2 align="center">🛠️&ensp; <i>T E C N O L O G I A S</i> &ensp;🛠️</h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,html,css,js,react,nodejs,linux,kubernetes,docker,aws" />
   </a>
 </p>
-<br><br><br><br><br><br><br><br>
 <div align="center">
   <a href="https://github.com/leticiamlbarros">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leticialmbarros&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
