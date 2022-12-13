@@ -14,7 +14,7 @@
 <ul align="left">
 <li>📍Sou de São Luis - MA e tenho 27 anos </li>
 <br>
-<li>🚀 Em processo de transição de carreira, sou formada em Direito e em breve estarei formado em Análise e Desenvolvimento de Sistemas na ANHANGUERA, sempre buscando conhecimento para poder avançar e me destacar no mercado de trabalho 🚀</li><br>
+<li>🚀 Em processo de transição de carreira, sou formada em Direito e em breve estarei formada em Análise e Desenvolvimento de Sistemas na ANHANGUERA, sempre buscando conhecimento para poder avançar e me destacar no mercado de trabalho 🚀</li><br>
 <br>
 <li>👩‍💻 Atualmente Desenvolvedora Front-End, e estudando tecnologias de linguagens do Back-End, para futuramente me tornar Full-Stack. Também estou imersa nos estudos das tecnologias DevOps. </li>
 <br>
