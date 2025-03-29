@@ -12,15 +12,15 @@
 ## Eai, Dev! Eu sou a Leticia, bem vindo ao meu mundo de códigos :)
 
 <ul align="left">
-<li>📍Sou de São Luis - MA e tenho 27 anos </li>
+<li>📍Sou de São Luis - MA e tenho 30 anos </li>
 <br>
-<li>🚀 Em processo de transição de carreira, sou formada em Direito e em breve estarei formada em Análise e Desenvolvimento de Sistemas na ANHANGUERA, estou sempre buscando conhecimento para poder avançar e me destacar no mercado de trabalho 🚀</li><br>
+<li>🚀 Em processo de transição de carreira, sou formada em Direito e em breve estarei pós graduada em Ciência de Dados, estou sempre buscando conhecimento para poder avançar e me destacar no mercado de trabalho 🚀</li><br>
 <br>
-<li>👩‍💻 Atualmente Desenvolvedora Front-End, e estudando tecnologias de linguagens do Back-End, para futuramente me tornar Full-Stack. Também estou imersa nos estudos das tecnologias DevOps. </li>
+<li>👩‍💻 Atualmente Analista de Dados Jr, mas com um background bem amplo em desenvolvimento de softwares. Também estou imersa nos estudos das tecnologias DevOps. </li>
 <br>
-<li>🎓 Após construir sólidas bases em lógica de programação, HTML, CSS, Javascript e Git/Github, tenho evoluido em ReactJS e seu ecossistema de tecnologia, sendo algumas delas: TypeScript, Bootstrap e NodeJS. Tenho compreendido também as tecnologias do mundo Devops como: Linux, Kubernets, Docker e AWS. </li>
+<li>🎓 Após construir sólidas bases em lógica de programação, Phyton, SQL, Javascript e Git/Github, tenho evoluido bastanto no ecossistema da tecnologia. Tenho alguns conhecimentos também as tecnologias do mundo Devops como: Linux, Kubernets, Docker e AWS. </li>
 <br>
-<li>💻 Atualmente disponivel para estágios na area de desenvolvimento frontend e devops. </li>
+<li>💻 Atualmente disponivel para vagas de emprego na área de dados, como analista jr. </li>
 </ul>
 <br>
 <!--FIM descrição-->
